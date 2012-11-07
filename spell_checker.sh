@@ -1,5 +1,3 @@
-#spell checker that works on the basis of a dictionary file in the current directory named "dictionary". If the word is not present in the dictionary then sugestions will be given
-
 #!/bin/bash
 
 dictionary="dictionary"
